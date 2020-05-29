@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/codezas)
 [![](https://img.shields.io/badge/-TALUS-blue)]
 
-> Bot that could moderate servers as a human.
+> Bot that could really help Lithuanian servers avoid common problems.
 
 ## Features | Funkcijos
 

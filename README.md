@@ -1,49 +1,33 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="PROJECT 4416" src="https://i.imgur.com/YUVLbzS.png">
 
-# Project4416
+# Talus Lithuanian Discord Bot
 
 [![](https://img.shields.io/discord/695997516621021255.svg?logo=discord&colorB=7289DA)](https://discord.gg/klubas)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/codezas)
-[![](https://img.shields.io/badge/-TITANAS-orange)]
+[![](https://img.shields.io/badge/-TALUS-blue)]
 
 > Bot that could moderate servers as a human.
 
-## Features
+## Features | Funkcijos
 
 - [x] -- **ANTIRAID** Protection
-- [x] -- **ZALGO** Protection
-- [x] -- **ASCII** Protection
-- [x] -- **MassMention** Protection
-- [x] -- **BadWords** Protection
+- [x] -- **Invite/Link** Protection
 
-## Commands
+## Commands | Komandos
 
-👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **11** more! 
-*   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **6** more! 
-*   👑 **Owner**: `eval`, `getinvite`, `servers-list` and **2** more!
-*   🎵 **Music**: `play`, `skip`, `queue`, `np`, and **2** more!  
-*   💰 **Economy**: `profile`, `work`, `badge`, `slots`, `balance`, `leaderboard`, and **6** more! 
-*   👻 **Fun**: `lmg`, `findwords`, `flip`, `lovecalc`, `random` and **6** more! 
-*   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin` and **25** more! 
+*   🚓 **Moderator commands/Moderatoriu komandos**: `perspet`, `isp`, `trinti`, `salint`, `mesti`, `mute`, `unmute`, `sync`, `invites-off/on`, `LOCK`, `UNLOCK`!
+*   🖨️ **General commands/Pagrindines komandos**: `pagalba`, `apie`, `dstatus`, `botas`, `ispejimai`!
 
-## Events
+## Events | Ivykiai
 
-*   🚓 **JOIN/LEAVE ALERT**: `set-channel`, `set-logs`.
-*   🚓 **ANTIRAID ALERT**: `set-days`, `set-logs`. 
-*   🎵 **RADIO 24/7**: ``PLAYS CUSTOM PLAYLIST 24/7``.
-*   🎵 **MSG LOGS**: ``set-channel``, ``set-logs``.
+*   🚓 **MESSAGE LOGGING SYSTEM/Zinuciu irasymo sistema**: `iraso kiekviena zinute kuri buvo issiusta i talus-logs | logs every message that has been sent in talus-logs`.
+*   🚓 **ANTIRAID ALERT/ANTIRAID ISPEJIMAS**: `pasalina paskyras kurios neturi 15 dienu po sukurimo | removes accounts that don't have 15 days after being created`. 
 
-### Dashboard access
 
-*   You should be able to customize **Project4416** through a simple and powerful dashboard. **[WIP]**
+## Links | Nuorodos
 
-## Links
-
-*   [YouTube](https://www.youtube.com/codezas)
-*   [Discord](https://discord.gg/klubas)
-*   [Twitter](https://twitter.com/codezas)
+*   [Discord](https://discord.gg/T55cyHV)
 *   [Github](https://github.com/codeziukas)
-*   [Dashboard **[WIP]**
 
 

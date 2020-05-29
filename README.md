@@ -5,7 +5,7 @@
 [![](https://img.shields.io/discord/695997516621021255.svg?logo=discord&colorB=7289DA)](https://discord.gg/klubas)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/codezas)
-[![](https://img.shields.io/badge/-TALUS-blue)]
+[![](https://img.shields.io/badge/-TALUS-blue)
 
 > Bot that could really help Lithuanian servers avoid common problems.
 

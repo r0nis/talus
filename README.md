@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="PROJECT 4416" src="https://i.imgur.com/YUVLbzS.png">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="PROJECT 4416" src="https://i.imgur.com/LMfI0dr.png">
 
 # Talus Lithuanian Discord Bot
 
@@ -6,6 +6,7 @@
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/codezas)
 [![](https://img.shields.io/badge/-TALUS-blue)
+[![](https://img.shields.io/badge/-LT%20Discord%20Bot-blue)
 
 > Bot that could really help Lithuanian servers avoid common problems.
 
